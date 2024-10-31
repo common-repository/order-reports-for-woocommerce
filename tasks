@@ -1,0 +1,24 @@
+
+
+
+
+
+readme.txt
+banner
+
+
+
+
+
+
+
+
+
+/* Features */
+- Access limit (Administrator & Shop managers only)
+- Time frame filters
+- Orders by Payment Method
+- Orders by Amount
+- Orders by Status
+- Order Report Columns : Customer Name, Country, Tax, Shipping, Payment Method and Amount
+- Export to CSV 
